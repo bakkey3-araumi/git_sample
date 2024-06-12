@@ -1,7 +1,7 @@
 
 def main():
-    a = 5
-    b = 3
+    a = 500
+    b = 300
     ans = a + b
     print(ans)
  
